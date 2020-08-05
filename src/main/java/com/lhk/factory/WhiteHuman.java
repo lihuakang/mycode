@@ -1,0 +1,11 @@
+package com.lhk.factory;
+
+public class WhiteHuman implements Human {
+    public void getColor() {
+        System.out.println("白种人白色皮肤");
+    }
+
+    public void talk() {
+        System.out.println("白种人说英语");
+    }
+}
