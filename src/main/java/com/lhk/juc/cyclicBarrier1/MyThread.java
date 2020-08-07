@@ -18,6 +18,7 @@ public class MyThread extends Thread {
             Thread.sleep((int)Math.random()*10000);
             System.out.println(Thread.currentThread().getName()+"到了"+System.currentTimeMillis());
             cbRef.await();
+            System.out.println(Thread.currentThread().getName()+"结束");
         }catch (Exception e){
             e.printStackTrace();
         }
