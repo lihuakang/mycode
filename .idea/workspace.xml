@@ -3,75 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f43a09c6-005f-4b21-a71c-3d769f2a76a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lhk/juc/cyclicBarrier1/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lhk/juc/cyclicBarrier1/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lhk/juc/cyclicBarrier1/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lhk/juc/cyclicBarrier1/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractBlackHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractBlackHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractWhiteHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractWhiteHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractYellowHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/AbstractYellowHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/FemaleFacory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/FemaleFacory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/FemaleYellowHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/FemaleYellowHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/HumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/HumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/MaleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/MaleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/MaleYellowHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/MaleYellowHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/NvWa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/abdFactory/NvWa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/builder/CarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/builder/CarBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/builder/CarModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/builder/CarModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/com/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/com/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/AbstractHumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/AbstractHumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/BlackHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/BlackHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/HumanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/HumanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/NvWa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/NvWa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/WhiteHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/WhiteHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/factory/YellowHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/factory/YellowHuman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger2/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger2/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger2/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/Exchanger2/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch1/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch2/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch2/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch2/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch2/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch3/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch4/Mythread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch4/Mythread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch4/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch4/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/countDownLatch5/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/Run$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/Run$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/cyclicBarrier1/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Run2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Run2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore/ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore2/ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore3/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore3/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore3/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore3/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore4/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/ListPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/ListPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore5/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/RepastService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/RepastService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/ThreadP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/juc/semaphore6/ThreadP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/singleton/Emperor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/singleton/Emperor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lhk/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lhk/singleton/Singleton.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,29 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/MyRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,18 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore4/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore4/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore4/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/com/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore5/ListPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore5/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore5/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/RepastService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/Run.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/ThreadA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/Run.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger2/Test.java" />
@@ -182,6 +79,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/MyRunable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/MyRunnable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/Run.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor/Run2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/MyRunnable1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor3/MyRunnable1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor3/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/MyRunnable1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/MyThreadFactory1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/MyThreadFactoryA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/Test1.java" />
       </list>
     </option>
   </component>
@@ -217,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,30 +159,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lhk" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lhk" type="462c0819:PsiDirectoryNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lhk" type="462c0819:PsiDirectoryNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="executor4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,7 +183,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -316,65 +206,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (3)">
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.executor2.Run" />
-      <module name="design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhk.juc.executor2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.executor3.Run" />
-      <module name="design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhk.juc.executor3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.executor4.Run" />
-      <module name="design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhk.juc.executor4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.executor1.Run" />
-      <module name="design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lhk.juc.executor1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test1 (2)">
     <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.executor1.Run2" />
+      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.threadPoolExecutor.Run2" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lhk.juc.executor1.*" />
+          <option name="PATTERN" value="com.lhk.juc.threadPoolExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.threadPoolExecutor3.Test1" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhk.juc.threadPoolExecutor3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.threadPoolExecutor4.Test1" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhk.juc.threadPoolExecutor4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.threadPoolExecutor2.Test1" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhk.juc.threadPoolExecutor2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lhk.juc.threadPoolExecutor2.Test3" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lhk.juc.threadPoolExecutor2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,10 +274,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (3)" />
-        <item itemvalue="Application.Run (2)" />
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test1 (2)" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Run2" />
       </list>
     </recent_temporary>
@@ -411,18 +301,18 @@
       <workItem from="1596591987616" duration="736000" />
       <workItem from="1596593415434" duration="8957000" />
       <workItem from="1596679057513" duration="1092000" />
-      <workItem from="1596764320883" duration="4778000" />
+      <workItem from="1596764320883" duration="7972000" />
+      <workItem from="1597022474745" duration="5558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46909000" />
+    <option name="totallyTimeSpent" value="55661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -431,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39016393" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21803279" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +337,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.329296" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.19591528" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -460,92 +350,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/ThreadP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore6/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/semaphore2/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger2/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/Exchanger/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -857,15 +661,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/MyRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/executor4/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="190">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/hua-jie-suan-fa-3-wu-zhong-fu-zi-fu-de-zui-chang-z.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="416">
+            <caret line="25" column="19" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/MyRunnable1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor2/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor3/MyRunnable1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor3/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/MyRunnable1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/MyThreadFactoryA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lhk/juc/threadPoolExecutor4/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
